@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <script  src="./scripts/scripts.js" ></script>
+</head>
+<body onload="mostrarvideos()">
+    <header>
+        <a href="./index.html"><img src="" alt=""></a>
+        <div class="barra-busqueda">
+            <input type="text " placeholder="buscar video">
+            <button class="btn" onclick="buscar()"></button>
+
+        </div>
+    </header>
+    <main id ="main">
+        <div class="filtros">
+            <button  class="btntodos" onclick="cambiarCategoria(this)">todos</button>
+            <button  class="btncategoria" onclick="cambiarCategoria(this,'Musica')">Musica</button>
+            <button  class="btncategoria" onclick="cambiarCategoria(this,'Animes')">Animes</button>
+            <button  class="btncategoria" onclick="cambiarCategoria(this, 'WorldWar')">WorldWar</button>
+        </div>
+        <div class="videos" id="todosvideos"></div>
+    </main>
+    
+</body>
+</html>

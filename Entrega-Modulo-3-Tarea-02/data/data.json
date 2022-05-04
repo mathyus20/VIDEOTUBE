@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+"nombre": "1917",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/XNupATI9P0Q",
+"poster": "./imagenes/1917 imagen.jpeg",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 2,
+"nombre": "Rescatando a Ryan",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/soldado-ryan.jpg",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 3,
+"nombre": "Dunkerk",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/dunkerque.png",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 4,
+"nombre": "Hasta el ultimo hombre",
+"autor": "un señor ahi",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/Hasta_el_ultimo_hombre.jpg",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 5,
+"nombre": "Jojo Rabbit",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/jojo-rabbit.jpg",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 6,
+"nombre": "Corazones de hierro",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/corazones-hierro.jpg",
+"categorie": "WorldWar"
+    },
+    {
+        "id": 7,
+"nombre": "Adonai",
+"autor": "porque te casaste adonai",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/G496pOflTJg",
+"poster": "./imagenes/adonai6.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 8,
+"nombre": "Animals",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/animasls2.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 9,
+"nombre": "Imagine dragons",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/bones-imaginedragons5.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 10,
+"nombre": "Die For You",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/h7MYJghRWt0",
+"poster": "./imagenes/dieforyou3.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 11,
+"nombre": "One Last Kiss",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/onelastkiss4.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 12,
+"nombre": "Bzrap REne",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/rene1.png",
+"categorie": "Musica"
+    },
+    {
+        "id": 13,
+"nombre": "Akira",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/akira.png",
+"categorie": "Animes"
+    },
+    {
+        "id": 14,
+"nombre": "Arcane",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/arcane.png",
+"categorie": "Animes"
+    },
+    {
+        "id": 15,
+"nombre": "Demon Slayer",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/demonslayer.png",
+"categorie": "Animes"
+    },
+    {
+        "id": 16,
+"nombre": "Cowboy bebop",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/cowboy-bebop.png",
+"categorie": "Animes"
+    },
+    {
+        "id": 17,
+"nombre": "Neon genesis evangelion",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1999",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/Neon_evangelion.png",
+"categorie": "Animes"
+    },
+    {
+        "id": 18,
+"nombre": "Steins gate",
+"autor": "Sam Mendes",
+"vistas": "1917.9781.1",
+"fecha": "2-12-1917",
+"url": "https://www.youtube.com/embed/qPQ8wtkOVq0",
+"poster": "./imagenes/steinsgate.png",
+"categorie": "Animes"
+    }
+]
+        
+    
+    
+    
