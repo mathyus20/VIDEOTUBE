@@ -5,12 +5,12 @@
   margin: 0;
   box-sizing: border-box;
   padding: 0;
-  
 }
 
 body {
   font-family: 'League Gothic', sans-serif;
-  background-color: #ffffff98;
+  background-image: url(https://previews.123rf.com/images/schastnyi/schastnyi2005/schastnyi200500723/146500964-polvo-multicolor-abstracto-mezclado-sobre-fondo-blanco-congele-el-movimiento-del-polvo-de-color-conc.jpg);
+
 }
 
 header{
@@ -68,6 +68,41 @@ align-items: flex-start;
 background-color: black;
 }
 
+button{
+  padding: 0;
+  border: none;
+  color: inherit;
+  background-color: lightblue;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+  margin: 20px; 
+}
+button:focus {
+  outline: 0;
+}
+
+button :hover{
+  box-shadow: black;
+}
+button :active{
+  transform: translateY(2px);;
+}
+.lista-videos{
+  border-radius: 2px;
+  display:grid;
+ margin:0 7px 7px 500px; 
+ border-color:blue;
+    width: 500px; float:right; height:500px; 
+    border-radius: 10px;
+    min-height: 200px;
+    font-weight: bold;
+    padding: 20px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+}
+
 .avatar{
 width: 35px;
 }
@@ -87,4 +122,11 @@ flex-direction: column;
   .textMinutos {
     left: 200px;
   }
+}
+@media screen and (max-width: 700px) {
+	
+}
+
+@media screen and (max-width: 600px) {
+
 }
